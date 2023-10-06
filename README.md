@@ -8,12 +8,12 @@ Hi there! I'm Tradix, a passionate Computer Scientist. I love to explore and lea
 - 🌱 I’m currently learning c, python, html & CSS, and java.<br>
 - 👯 I’m looking to collaborate on low level programming. <br>
 - 💬 Ask me about Computer Science.<br>
-- 📫 How to reach me: [tradix2021@gmail.com](mailto: tradix2021@gmail.com)<br>
+- 📫 How to reach me: [myemail](mailto:tradix2021@gmail.com)<br>
 - ⚡ Fun fact: I don't do pronouns, C'mon.<br>
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?tradixcodes=tradixcodes&show_icons=true&theme=dark)
+![GitHub Stats](https://img.shields.io/github/stars/tradixcodes/alx-low_level_programming)
 
 ## Technologies & Tools
 
@@ -29,16 +29,15 @@ Here are some of the technologies and tools I'm familiar with:
 
 Here are some of the projects I've worked on:
 
-1. [cs](https://github.com/your-username/project1) - Description of Project 1.
-2. [Project 2](https://github.com/your-username/project2) - Description of Project 2.
-3. [Project 3](https://github.com/your-username/project3) - Description of Project 3.
+1. [cs](https://github.com/tradixcodes/cs) - My course overview.
+2. [alx-low_level_programming](https://github.com/tradixcodes/alx-low_level_programming) - Alx low level engineering repo.
+3. [alx-system_engineering_devops](https://github.com/tradixcodes/alx-system_engineering_devops) - Alx bash programming repo.
 
 ## Connect with Me
 
 Let's connect! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Blog](https://www.yourwebsite.com)
+- [LinkedIn](www.linkedin.com/in/njoroge-kanyagia)
+- [Twitter](https://twitter.com/tradixcodes)
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to say hi! 😊
