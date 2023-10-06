@@ -2,35 +2,34 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a passionate [Your Profession/Field] from [Your Location]. I love to explore and learn about cutting-edge technologies and share my knowledge with the community.
+Hi there! I'm Tradix, a passionate Computer Scientist. I love to explore and learn about cutting-edge technologies and share my knowledge with the community.
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Tool]
-- 👯 I’m looking to collaborate on [Project/Idea]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About Yourself]
+- 🔭 I’m currently working on ALX-SE program.<br>
+- 🌱 I’m currently learning c, python, html & CSS, and java.<br>
+- 👯 I’m looking to collaborate on low level programming. <br>
+- 💬 Ask me about Computer Science.<br>
+- 📫 How to reach me: [tradix2021@gmail.com](mailto: tradix2021@gmail.com)<br>
+- ⚡ Fun fact: I don't do pronouns, C'mon.<br>
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?tradixcodes=tradixcodes&show_icons=true&theme=dark)
 
 ## Technologies & Tools
 
 Here are some of the technologies and tools I'm familiar with:
 
-- 💻 Programming Languages: [List Programming Languages]
-- 🚀 Frameworks: [List Frameworks]
-- 🛠️ Tools: [List Tools]
-- 📦 Databases: [List Databases]
-- 🌐 Web Technologies: [List Web Technologies]
+- 💻 Programming Languages: C and C++
+- 🚀 Frameworks: Not yet
+- 🛠️ Tools: Not yet
+- 📦 Databases: Not yet
+- 🌐 Web Technologies: Not yet
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. [Project 1](https://github.com/your-username/project1) - Description of Project 1.
+1. [cs](https://github.com/your-username/project1) - Description of Project 1.
 2. [Project 2](https://github.com/your-username/project2) - Description of Project 2.
 3. [Project 3](https://github.com/your-username/project3) - Description of Project 3.
 
