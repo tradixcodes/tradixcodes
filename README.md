@@ -4,9 +4,9 @@
 
 Hi there! I'm Tradix, a passionate Computer Scientist. I love to explore and learn about cutting-edge technologies and share my knowledge with the community.
 
-- 🔭 I’m currently working on ALX-SE program.<br>
-- 🌱 I’m currently learning c, python, html & CSS, and java.<br>
-- 👯 I’m looking to collaborate on low level programming. <br>
+- 🔭 I’m currently working on a school project.<br>
+- 🌱 I’m currently learning html & CSS.<br>
+- 👯 I’m looking to collaborate on web-development. <br>
 - 💬 Ask me about Computer Science.<br>
 - 📫 How to reach me: [my email](mailto:tradix2021@gmail.com)<br>
 - ⚡ Fun fact: I don't do pronouns, C'mon.<br>
