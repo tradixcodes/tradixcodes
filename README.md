@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 
 Let's connect! You can find me on:
 
-- [LinkedIn](www.linkedin.com/in/njoroge-kanyagia)
 - [X](https://x.com/tradixceo)
+- [LinkedIn](www.linkedin.com/in/njoroge-kanyagia)
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to say hi! 😊
