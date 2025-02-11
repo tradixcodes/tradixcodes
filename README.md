@@ -2,18 +2,18 @@
 
 ## About Me
 
-Hi there! I'm Kanyagia, a passionate Computer Scientist. I love to explore and learn about cutting-edge technologies and share my knowledge with the community.
+Hi there! I'm Kanyagia, a passionate Computer Scientist. I love to explore and learn about technologies and share cool stuff.
 
-- 🔭 I’m currently working on a school project.<br>
-- 🌱 I’m currently learning html & CSS.<br>
+- 🔭 I’m currently working on personal projects.<br>
+- 🌱 I’m currently learning React and Javascript.<br>
 - 👯 I’m looking to collaborate on web-development. <br>
 - 💬 Ask me about Computer Science.<br>
-- 📫 How to reach me: [my email](mailto:tradix2021@gmail.com)<br>
-- ⚡ Fun fact: I don't do pronouns, C'mon.<br>
+- 📫 How to reach me: [my email](mailto:tradixcodes@gmail.com)<br>
+- ⚡ Fun fact: I reach for the stars✨.<br>
 
 ## My GitHub Stats
 
-![GitHub Stats](https://img.shields.io/github/stars/tradixcodes/alx-low_level_programming)
+![GitHub Stats](https://img.shields.io/github/stars/tradixcodes/Personal)
 
 ## Projects
 
@@ -28,6 +28,6 @@ Here are some of the projects I've worked on:
 Let's connect! You can find me on:
 
 - [LinkedIn](www.linkedin.com/in/njoroge-kanyagia)
-- [Twitter](https://twitter.com/tradixcodes)
+- [X](https://x.com/tradixceo)
 
 Feel free to reach out if you have any questions, want to collaborate, or just want to say hi! 😊
