@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Kanyagia, a passionate Computer Scientist. I love to explore and learn about technologies and share cool stuff.
+Hi there! I'm Tradix, a passionate Computer Scientist. I love to explore and learn about technologies and share cool stuff.
 
 - 🔭 I’m currently working on personal projects.<br>
 - 🌱 I’m currently learning React and Javascript.<br>
