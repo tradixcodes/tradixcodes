@@ -5,7 +5,7 @@
 Hi there! I'm Tradix, a passionate developer. I love to explore and learn about technologies and share cool stuff.
 
 - 🔭 I’m currently working on personal projects.<br>
-- 🌱 I’m currently learning React and Javascript.<br>
+- 🌱 I’m currently learning backend development.<br>
 - 👯 I’m looking to collaborate on web-development. <br>
 - 💬 Ask me about Computer Science.<br>
 - 📫 How to reach me: [my email](mailto:tradixcodes@gmail.com)<br>
