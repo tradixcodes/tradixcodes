@@ -19,7 +19,7 @@ Hi there! I'm Tradix, a passionate developer. I love to explore and learn about 
 Here are some of the projects I've worked on:
 
 1. [AstroGame](https://github.com/tradixcodes/AstroGame) - 2D Python Astro Shooter.
-2. [AI-agent](https://github.com/tradixcodes/ai-agent) - File management AI agent in Python.
+2. [Static Site Generator](https://github.com/tradixcodes/static-sitegenerator) - A minor remake of SSGs like HUGO in Python
 3. [diamond-rush](https://github.com/tradixcodes/diamond-rush) - Remake of Java's Diamond Rush Game in LOVE2D
 
 ## Connect with Me
