@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 
 1. [AstroGame](https://github.com/tradixcodes/AstroGame) - 2D Python Astro Shooter.
 2. [Static Site Generator](https://github.com/tradixcodes/static-sitegenerator) - A minor remake of SSGs like HUGO in Python
-3. [diamond-rush](https://github.com/tradixcodes/diamond-rush) - Remake of Java's Diamond Rush Game in LOVE2D
+3. [diamondrushlove](https://github.com/tradixcodes/diamondrushlove) - Remake of Java's Diamond Rush Game in LOVE2D
 
 ## Connect with Me
 
