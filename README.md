@@ -12,7 +12,7 @@ Hi there! I'm Tradix, a passionate developer. I love to explore and learn about 
 
 ## My GitHub Stats
 
-![GitHub Stats](https://img.shields.io/github/stars/tradixcodes/diamond-rush)
+![GitHub Stats](https://img.shields.io/github/stars/tradixcodes/diamondrushlove)
 
 ## Projects
 
