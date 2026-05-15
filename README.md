@@ -5,8 +5,8 @@
 Hi there! I'm Tradix, a passionate developer. I love to explore and learn about technologies and share cool stuff.
 
 - 🌱 I’m currently learning backend development.<br>
-- 👯 I’m looking to collaborate on anything fun.<br>
-- 💬 Ask me about Computer Science.<br>
+- 👯 I’m working on software for businesses.<br>
+- 💬 Share your fav songs.<br>
 - 📫 How to reach me: [my email](mailto:tradixcodes@gmail.com)<br>
 - ⚡ Fun fact: I reach for the stars✨.<br>
 
@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 
 1. [AstroGame](https://github.com/tradixcodes/AstroGame) - 2D Python Astro Shooter.
 2. [Static Site Generator](https://github.com/tradixcodes/static-sitegenerator) - A minor remake of SSGs like HUGO in Python
-3. [diamondrushlove](https://github.com/tradixcodes/diamondrushlove) - Remake of Java's Diamond Rush Game in LOVE2D
+3. [diamondrushlove](https://github.com/tradixcodes/diamondrushlove) - Remake of Java's Diamond Rush Game in LOVE2D (Currently, working on it ...)
 
 ## Connect with Me
 
